@@ -31,3 +31,10 @@ I have a technical mindset, I learn quickly and fit well into any company. Progr
 ## Experience:
 
 - **[DigitalHunters](https://umar61.github.io/)** - HTML5, CSS3, Sass, Bootstrap, Js/Jquery, Adaptive Layout
+
+## Education:
+
+- University: Don State Technical University, faculty of Informatics and Computer Engineering (2021 - ...)
+- [Html/Css](https://htmlacademy.ru/)
+- [LearnJavaScript](https://learn.javascript.ru/)
+- [Git](https://git-scm.com/book/ru/v2)
