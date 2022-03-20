@@ -26,7 +26,7 @@ I have a technical mindset, I learn quickly and fit well into any company. Progr
 
 ## Code example:
 
-`alert( 'Hello, rsschool!' );`
+`alert( 'Hello, rs-school!' );`
 
 ## Experience:
 
@@ -38,3 +38,8 @@ I have a technical mindset, I learn quickly and fit well into any company. Progr
 - [Html/Css](https://htmlacademy.ru/)
 - [LearnJavaScript](https://learn.javascript.ru/)
 - [Git](https://git-scm.com/book/ru/v2)
+
+## Languages:
+
+- Russian - native speaker
+- English - A2
