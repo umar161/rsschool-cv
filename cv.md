@@ -27,3 +27,7 @@ I have a technical mindset, I learn quickly and fit well into any company. Progr
 ## Code example:
 
 `alert( 'Hello, rsschool!' );`
+
+## Experience:
+
+- **[DigitalHunters](https://umar61.github.io/)** - HTML5, CSS3, Sass, Bootstrap, Js/Jquery, Adaptive Layout
