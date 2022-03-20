@@ -23,3 +23,7 @@ I have a technical mindset, I learn quickly and fit well into any company. Progr
 - Python(Basics)
 - VSCode, SublimeText
 - Figma, Photoshop
+
+## Code example:
+
+`alert( 'Hello, rsschool!' );`
