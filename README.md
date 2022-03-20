@@ -1,1 +1,1 @@
-# rsschool-cv
+https://umar161.github.io/rsschool-cv/cv
