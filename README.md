@@ -1,1 +1,1 @@
-https://umar161.github.io/rsschool-cv/cv
+https://umar161.github.io/rsschool-cv/
